@@ -42,6 +42,12 @@ streamlit run app.py
 
 HR Employee Attrition Dataset
 
+## Live Dashboard
+
+You can explore the deployed HR Analytics dashboard here:
+
+https://hranalyticsproject-kbx6zaegf9bwbrb6tanrj2.streamlit.app
+
 ## 👨‍💻 Author
 
 Pravallika
